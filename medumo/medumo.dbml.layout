@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="medumo">
+  <DataContextMoniker Name="/medumoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="058fbe50-6336-46a9-9b7f-fce3303adf4e" absoluteBounds="1.5, 0.5, 2, 5.8092268880208326">
+      <DataClassMoniker Name="/medumoDataContext/vMEDUMO_Current_Appts_For_Upload" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8a42d56-2b4f-4c87-a139-b92a9ac899b5" absoluteBounds="1.5149999999999997, 0.96, 1.9700000000000002, 5.249226888020833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ff40f76a-e4cb-45a4-b7b7-f69079ef38d9" absoluteBounds="4.125, 0.5, 2, 6.0015283203125">
+      <DataClassMoniker Name="/medumoDataContext/MEDUMO_Current_Appt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71180804-6274-473d-a2f6-7d7340408cc8" absoluteBounds="4.14, 0.96, 1.9700000000000002, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b38d45f-7187-411f-92a9-0f51e598667f" absoluteBounds="6.875, 0.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/medumoDataContext/DataTransfer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04760923-161c-4fe6-96a2-b216641f8dba" absoluteBounds="6.89, 1.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
